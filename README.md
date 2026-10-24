@@ -138,4 +138,5 @@ if not slowdown.empty:
     print("| GROWTH SLOWDOWN DETECTED    |")
     print("+" + "-"*40 + "+")
     print(slowdown[["month", "mom_growth_%"]].to_string(index=False))
-    print("+" + "-"*40 + "+")
+    print("+" + "-"*40 + "+") 
+    # compeletion of project
